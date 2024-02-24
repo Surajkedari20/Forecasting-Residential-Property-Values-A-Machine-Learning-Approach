@@ -14,7 +14,7 @@ The code is written in Python and requires the following libraries:
 
 # Installation:
 To install the required dependencies, run the following command:
-  pip install numpy pandas scikit-learn matplotlib seaborn xgboost
+  pip install numpy pandas scikit-learn matplotlib seaborn 
 Usage:
 
 # Data Preprocessing:
